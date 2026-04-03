@@ -64,7 +64,7 @@ layers:
   - '&mkp MB1'
   - '&mkp MB2'
   - {t: ▽, type: trans}
-  - B
+  - INTERNATIONAL 1
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '['
