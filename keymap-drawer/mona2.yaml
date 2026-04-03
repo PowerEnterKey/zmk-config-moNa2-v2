@@ -16,7 +16,7 @@ layers:
   - D
   - F
   - G
-  - F13
+  - '&mkp MB1'
   - H
   - J
   - K
@@ -28,7 +28,7 @@ layers:
   - V
   - B
   - LANGUAGE 2
-  - F15
+  - '&mkp MB2'
   - N
   - M
   - ','
@@ -102,7 +102,7 @@ layers:
   - '"'
   - ''''
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&mkp MB4'
   - '&mkp MB3'
   - '&mkp MB1'
   - '&mkp MB2'
